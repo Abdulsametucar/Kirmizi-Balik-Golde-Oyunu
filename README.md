@@ -5,7 +5,8 @@ HTML canvas ve JavaScript kullanarak geliştirdiğim kırmızı balık gölde oy
 Bu proje, HTML canvas ve JavaScript kullanarak geliştirilmiş basit bir tarayıcı oyunudur. Oyunda amaç, kırmızı balığı kontrol ederek engellere çarpmadan mümkün olduğunca uzun süre hayatta kalmaktır.
 
 # Nasıl Oynanır?
-# Hedef: Balığı kontrol ederek engellere çarpmadan mümkün olduğunca uzun süre hayatta kalmak.
+# Hedef: 
+Balığı kontrol ederek engellere çarpmadan mümkün olduğunca uzun süre hayatta kalmak.
 # Kontroller:
 Sol ve Sağ Yön Tuşları: Balığı sola veya sağa hareket ettirin.
 Yukarı ve Aşağı Yön Tuşları: Balığı yukarı veya aşağı hareket ettirin.
