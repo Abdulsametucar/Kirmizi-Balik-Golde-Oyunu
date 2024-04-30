@@ -1,7 +1,9 @@
 # Kırmızı Balık Gölde Oyunu
 
 Bu proje, HTML canvas ve JavaScript kullanarak geliştirilmiş basit bir tarayıcı oyunudur. Oyunda amaç, kırmızı balığı kontrol ederek engellere çarpmadan mümkün olduğunca uzun süre hayatta kalmaktır.
+## Oynanış Videosu: https://youtu.be/zbemkNVT8RM
 
+## Oyun Linki: https://kirmizibalik.serv00.net/
 ## Nasıl Oynanır?
 
 - **Hedef:** Balığı kontrol ederek engellere çarpmadan mümkün olduğunca uzun süre hayatta kalmak.
